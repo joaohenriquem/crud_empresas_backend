@@ -11,7 +11,7 @@ let db = null;
 const url = "mongodb+srv://sistemas:pWvgtsWmkal9yf6f@cluster0.maw00.mongodb.net/GraphQLdb?retryWrites=true&w=majority";
 
 const dbName = 'EmpresasGraphQLdb';
-const port = 3001;
+const port = 443;
 
 app.use(cors());
 
