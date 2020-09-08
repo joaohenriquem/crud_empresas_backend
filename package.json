@@ -1,0 +1,21 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "description": "GraphQL com Node.js",
+  "main": "server.js",
+  "keywords": [
+    "GraphQL",
+    "API"
+  ],
+  "author": "Ben-Hur",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2",
+    "graphql-tools": "^4.0.5",
+    "mongodb": "^3.3.0-beta2"
+  }
+}
